@@ -6,5 +6,5 @@
 
 ## Supported Formats
 
-* [PEM (Privacy Enhanced Mail)(https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail) format
+* [PEM (Privacy Enhanced Mail)](https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail) format
   * [PKCS #1](https://tools.ietf.org/html/rfc8017) RSA Keys
